@@ -1,0 +1,11 @@
+Ethylenediaminetetraacetic acid tetrasodium salt hydrate
+Unique Identifier: C-LL005
+Alternative names: EDTA, C10H16N2O8
+Supplier: Sigma
+Location: Molecular biology cabinet
+Order Number: E5391-250g
+CAS #: 194491-31-1
+Warnings: Harmful if swallowed or if inhaled. Causes serious eye damage. May cause damage to organs (Respiratory Tract) through prolonged or repeated exposure.
+Other Information: 
+Molecular weight[g/mol]: 380.17
+Concentration : None

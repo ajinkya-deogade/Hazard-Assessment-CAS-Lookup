@@ -1,0 +1,11 @@
+Potassium Chloride
+Unique Identifier: C-LL008
+Alternative names: KCl
+Supplier: Tocris
+Location: Molecular biology cabinet
+Order Number: 3147
+CAS #: 7447-40-7
+Warnings: 
+Other Information: 
+Molecular weight[g/mol]: 
+Concentration : None

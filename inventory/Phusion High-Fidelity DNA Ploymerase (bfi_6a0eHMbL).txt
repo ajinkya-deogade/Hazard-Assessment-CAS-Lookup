@@ -1,0 +1,11 @@
+Phusion High-Fidelity DNA Ploymerase
+Unique Identifier: C-LL035
+Alternative names: None
+Supplier: NEB
+Location: -20 valuables freezer
+Order Number: M0530S
+CAS #: None
+Warnings: None
+Other Information: NOT USED FOR ROUTINE PCR!
+Molecular weight[g/mol]: 
+Concentration : None

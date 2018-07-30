@@ -1,0 +1,11 @@
+Potassium Phosphate
+Unique Identifier: C-LL023
+Alternative names: KH2PO4
+Supplier: Fisher Scientific
+Location: Molecular biology cabinet
+Order Number: 20250
+CAS #: 7778-77-0
+Warnings: Hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion, of inhalation. Slightly hazardous in case of skin contact (permeator).
+Other Information: 
+Molecular weight[g/mol]: 
+Concentration : None

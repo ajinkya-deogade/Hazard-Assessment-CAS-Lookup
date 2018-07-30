@@ -1,0 +1,24 @@
+Acetic Acid (bfi_pwyBYC3M).txt
+Vectashield (bfi_DRChuecj).txt
+Kanamycin monosulfate (bfi_yP5X3diu).txt
+Generuler 1KB Plus DNA Ladder (bfi_Mu4E2vrZ).txt
+Sucrose (bfi_vJpKcqcG).txt
+DeoxyNT solution (bfi_OHRjEf2R).txt
+CAS_notFound.txt
+Phusion High-Fidelity DNA Ploymerase (bfi_6a0eHMbL).txt
+CopyControl Induction Solution (bfi_VcEkRtj5).txt
+TrackIt 100bp Ladder (bfi_8kr1Qmuw).txt
+LB medium (bfi_J48Q4X7Y).txt
+HEPES (bfi_0JQ6i0rM).txt
+Vectashield with DAPI (bfi_6Smx5PCZ).txt
+double entry, free! (bfi_KPbVl7r5).txt
+Proteinase K (bfi_QPCPxNTD).txt
+HindIII-HF (bfi_KXljPo6b).txt
+Sodium Hydroxide (bfi_p8SJpsQ3).txt
+Agarose (bfi_f4V3CvMt).txt
+GoTaq Green Master Mix (bfi_gzjM5KyC).txt
+Poly-D-Lysine coated coverslips (bfi_XHnc7nru).txt
+CAS-list.txt
+Gibson Assembly MM (bfi_57sohYFc).txt
+Magnesium Chloride, Hexahydrate (bfi_jqeSGrKf).txt
+Zymoclean Gel DNA Recovery Kit (bfi_DXCHKgUG).txt

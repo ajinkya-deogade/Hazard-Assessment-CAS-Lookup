@@ -1,0 +1,14 @@
+Agarose
+Unique Identifier: C-LL032
+Alternative names: 
+Supplier: Genesee
+Location: Chemical cabinet
+Order Number: 20-257
+CAS #: 9012-36-6
+Warnings: Potential Acute Health Effects:
+Hazardous in case of ingestion. Slightly hazardous in case of skin contact (irritant), of eye contact (irritant), of inhalation.
+Potential Chronic Health Effects:
+Hazardous in case of ingestion. Slightly hazardous in case of skin contact (irritant), of eye contact (irritant), of inhalation.
+Other Information: 
+Molecular weight[g/mol]: 
+Concentration : None

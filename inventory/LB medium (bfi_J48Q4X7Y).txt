@@ -1,0 +1,14 @@
+LB medium
+Unique Identifier: C-LL016
+Alternative names: Luria Bertani
+Supplier: Alfa Aesar
+Location: Molecular biology cabinet
+Order Number: J63905
+CAS #: 
+Warnings: 
+Other Information: Applications:
+LB Medium is used for the cultivation of E. coli. This nutrient-rich microbial broth contains peptides, amino acids, water-soluble vitamins, and carbohydrates. Suitable for non-selective cultivation of E. coli strains for cloning, DNA plasmid production and production of recombinant proteins. Also suitable for selective cultivation when appropriate antibiotics are added.
+Notes:
+Ingredients (per liter amounts): 10g Bacto tryptone, 5g Bacto yeast extract, 10g NaCl
+Molecular weight[g/mol]: 
+Concentration : None

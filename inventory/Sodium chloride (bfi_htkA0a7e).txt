@@ -1,0 +1,11 @@
+Sodium chloride
+Unique Identifier: C-LL006
+Alternative names: NaCl
+Supplier: Tocris
+Location: Molecular biology cabinet
+Order Number: 3146
+CAS #: 7647-14-5
+Warnings: 
+Other Information: 
+Molecular weight[g/mol]: 58.44
+Concentration : None

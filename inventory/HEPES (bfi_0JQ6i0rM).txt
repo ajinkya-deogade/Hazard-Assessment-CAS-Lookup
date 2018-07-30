@@ -1,0 +1,11 @@
+HEPES
+Unique Identifier: C-LL042
+Alternative names: None
+Supplier: Ricca
+Location: 4C Refrigerator
+Order Number: RMB19102-25C2
+CAS #: None
+Warnings: None
+Other Information: None
+Molecular weight[g/mol]: 238.3
+Concentration : None

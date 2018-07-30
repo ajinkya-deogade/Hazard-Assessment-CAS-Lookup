@@ -1,0 +1,11 @@
+Gibson Assembly MM
+Unique Identifier: C-LL052
+Alternative names: Gibson Cloning
+Supplier: NEB
+Location: -20 Valuables
+Order Number: E2611S
+CAS #: None
+Warnings: None
+Other Information: 10 reactions
+Molecular weight[g/mol]: 
+Concentration : None

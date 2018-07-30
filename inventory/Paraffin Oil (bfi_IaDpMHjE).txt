@@ -1,0 +1,11 @@
+Paraffin Oil
+Unique Identifier: C-LL001
+Alternative names: 
+Supplier: Sigma-Aldrich
+Location: Chemicals cabinet
+Order Number: 18512-1L
+CAS #: 8012-95-1
+Warnings: 
+Other Information: To be used to dilute odors. Check protocols!
+Molecular weight[g/mol]: 
+Concentration : None

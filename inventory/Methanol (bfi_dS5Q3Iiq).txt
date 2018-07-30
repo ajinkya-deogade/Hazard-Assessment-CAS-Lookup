@@ -1,0 +1,11 @@
+Methanol
+Unique Identifier: C-LL021
+Alternative names: MeOH, CH3OH
+Supplier: Fisher Scientific
+Location: Flammable cabinet
+Order Number: 1.00837.1000
+CAS #: 67-56-1
+Warnings: Danger! Highly flammable liquid and vapor. Toxic if swallowed, in contact with skin or if inhaled. Causes damage to organs (Eyes).
+Other Information: 
+Molecular weight[g/mol]: 
+Concentration : None

@@ -1,0 +1,11 @@
+Proteinase K
+Unique Identifier: C-LL037
+Alternative names: None
+Supplier: NEB
+Location: -20 valuables freezer
+Order Number: P8107S
+CAS #: None
+Warnings: None
+Other Information: None
+Molecular weight[g/mol]: 
+Concentration : 800 units/ml or approximately 20mg/ml

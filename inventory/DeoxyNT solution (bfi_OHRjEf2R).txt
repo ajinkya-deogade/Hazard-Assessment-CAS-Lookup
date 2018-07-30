@@ -1,0 +1,11 @@
+DeoxyNT solution
+Unique Identifier: C-LL050
+Alternative names: dNTPs, bases for PCR
+Supplier: NEB
+Location: -20 valuables
+Order Number: N0447S
+CAS #: None
+Warnings: None
+Other Information: Used for PCR with Phusion Polymerase
+Molecular weight[g/mol]: 
+Concentration : 10mM

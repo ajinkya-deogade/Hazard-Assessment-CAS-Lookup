@@ -1,0 +1,11 @@
+Tris Hydrochloride
+Unique Identifier: C-LL003
+Alternative names: Tris, Tris-HCl
+Supplier: Fisher Scientific
+Location: Molecular biology cabinet
+Order Number: 9310-500GM
+CAS #: 1185-53-1
+Warnings: CAUSES RESPIRATORY TRACT, EYE AND SKIN IRRITATION
+Other Information: A standard buffer in biology.
+Molecular weight[g/mol]: 157.6
+Concentration : None

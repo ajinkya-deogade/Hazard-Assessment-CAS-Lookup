@@ -1,0 +1,11 @@
+Triton X-100
+Unique Identifier: C-LL002
+Alternative names: C14H22O(C2H4O)n(n=9-10)
+Supplier: Fisher Scientific
+Location: Molecular biology cabinet
+Order Number: 9400100ML
+CAS #: 9002-93-1
+Warnings: WARNING! HARMFUL IF SWALLOWED.CAUSES SEVERE EYE IRRITATION.CAUSES RESPIRATORY TRACT AND SKIN IRRITATION. Risk of serious damage to eyes. Do not breathe vapor or mist. Do not ingest. Do not get in eyes or on skin or clothing. Use only with adequate ventilation. Keep container tightly closed and sealed until ready for use. Wash thoroughly after handling.
+Other Information: A chemical that makes tissue more penetrable by big molecules. Used i.e. in immunohistochemistry
+Molecular weight[g/mol]: 
+Concentration : None

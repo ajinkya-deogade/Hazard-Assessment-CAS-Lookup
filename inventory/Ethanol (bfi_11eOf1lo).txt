@@ -1,0 +1,11 @@
+Ethanol
+Unique Identifier: C-LL019
+Alternative names: EtOH, C2H6O
+Supplier: Fisher Scientific
+Location: Flammable cabinet
+Order Number: BP8202-1
+CAS #: 64-17-5
+Warnings: Hazardous in case of skin contact (irritant), of eye contact (irritant), of inhalation. Slightly hazardous in case of skin contact (permeator), of ingestion.
+Other Information: 
+Molecular weight[g/mol]: 
+Concentration : None

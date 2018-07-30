@@ -1,0 +1,11 @@
+Isopentyl acetate
+Unique Identifier: C-LL033
+Alternative names: IAA, Isoamyl acetate, Acetic acid 3-methylbutyl ester,   CH3COOCH2CH2CH(CH3)2
+Supplier: Sigma Aldrich
+Location: Flammable Cabinet
+Order Number: 306967-100ML
+CAS #: 123-92-2
+Warnings: Warning! Flammable liquid and vapour.
+Other Information: Odor
+Molecular weight[g/mol]: 130.18
+Concentration : None

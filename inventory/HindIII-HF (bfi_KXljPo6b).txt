@@ -1,0 +1,11 @@
+HindIII-HF
+Unique Identifier: C-LL051
+Alternative names: Restriction Enzymes, RE, HindIII
+Supplier: NEB
+Location: -20 Valuables
+Order Number: R3104S
+CAS #: None
+Warnings: None
+Other Information: 10,000 units
+Molecular weight[g/mol]: 
+Concentration : 20,000 units/ml

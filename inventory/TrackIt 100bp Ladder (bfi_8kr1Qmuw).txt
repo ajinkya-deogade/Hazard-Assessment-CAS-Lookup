@@ -1,0 +1,11 @@
+TrackIt 100bp Ladder
+Unique Identifier: C-LL025
+Alternative names: None
+Supplier: ThermoFisher Scientific
+Location: -20 valuables freezer
+Order Number: 10488058
+CAS #: None
+Warnings: None
+Other Information: None
+Molecular weight[g/mol]: 
+Concentration : None

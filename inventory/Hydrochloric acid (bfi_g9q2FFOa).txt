@@ -1,0 +1,11 @@
+Hydrochloric acid
+Unique Identifier: C-LL017
+Alternative names: HCl, Hydronium chloride, Chlorhydric Acid
+Supplier: Fisher Scientific
+Location: Corrosive cabinet
+Order Number: A144S-500
+CAS #: 7647-01-0
+Warnings: Danger! May be corrosive to metals. Causes severe skin burns and eye damage. May cause respiratory irritation
+Other Information: 
+Molecular weight[g/mol]: 
+Concentration : None

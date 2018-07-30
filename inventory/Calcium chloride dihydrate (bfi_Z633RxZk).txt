@@ -1,0 +1,11 @@
+Calcium chloride dihydrate
+Unique Identifier: C-LL007
+Alternative names: CaCl2
+Supplier: Tocris
+Location: Molecular biology cabinet
+Order Number: 3148
+CAS #: 10035-04-8
+Warnings: 
+Other Information: 
+Molecular weight[g/mol]: 110.98
+Concentration : None

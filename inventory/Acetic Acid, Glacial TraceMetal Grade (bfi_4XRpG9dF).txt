@@ -1,0 +1,12 @@
+Acetic Acid, Glacial TraceMetal Grade
+Unique Identifier: C-LL045
+Alternative names: CH3COOH
+Supplier: Fisher Scientific
+Location: Flammable
+Order Number: A507 P500
+CAS #: 64-19-7
+Warnings: Danger!
+Fire and corrosive
+Other Information: None
+Molecular weight[g/mol]: 60.05
+Concentration : None

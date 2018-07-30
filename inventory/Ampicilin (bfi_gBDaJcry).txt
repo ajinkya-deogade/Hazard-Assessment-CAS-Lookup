@@ -1,0 +1,11 @@
+Ampicilin
+Unique Identifier: C-LL043
+Alternative names: Antibiotic, C16H18N3O4SNa
+Supplier: Gold Biotechnology
+Location: -20 valuables freezer
+Order Number: A-301-25
+CAS #: 69-52-3
+Warnings: ToDo
+Other Information: None
+Molecular weight[g/mol]: 371.4
+Concentration : None

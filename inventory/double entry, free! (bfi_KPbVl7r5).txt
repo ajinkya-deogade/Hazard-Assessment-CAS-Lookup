@@ -1,0 +1,11 @@
+double entry, free!
+Unique Identifier: C-LL025
+Alternative names: 
+Supplier: 
+Location: 
+Order Number: 
+CAS #: 
+Warnings: 
+Other Information: 
+Molecular weight[g/mol]: 
+Concentration : None

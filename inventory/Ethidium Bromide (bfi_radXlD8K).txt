@@ -1,0 +1,11 @@
+Ethidium Bromide
+Unique Identifier: C-LL004
+Alternative names: EtBr, C21H20BrN3
+Supplier: Fisher Scientific
+Location: Molecular biology cabinet
+Order Number: 441010ML
+CAS #: 1239-45-8
+Warnings: WARNING! HARMFUL IF INHALED, ABSORBED THROUGH SKIN OR SWALLOWED. CAUSES RESPIRATORY TRACT, EYE AND SKIN IRRITATION. Do not breathe vapor or mist. Do not ingest. Do not get in eyes or on skin or clothing. Use only with adequate ventilation. Keep container tightly closed and sealed until ready for use. Wash thoroughly after handling.
+Other Information: Used to visualize DNA in gel electrophoresis.
+Molecular weight[g/mol]: 
+Concentration : None

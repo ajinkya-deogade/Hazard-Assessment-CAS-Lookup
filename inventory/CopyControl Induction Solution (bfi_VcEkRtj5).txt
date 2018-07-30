@@ -1,0 +1,11 @@
+CopyControl Induction Solution
+Unique Identifier: C-LL049
+Alternative names: None
+Supplier: Lucigen
+Location: -20 valuables
+Order Number: CCIS125
+CAS #: None
+Warnings: None
+Other Information: The CopyControl™ Induction Solution is used to induce CopyControl clones and clones retrofitted with the EZ-Tn5™ <oriV/KAN-2> Transposon, grown in TransforMax™ EPI300™ E. coli, from single-copy number to high-copy number.
+Molecular weight[g/mol]: 
+Concentration : None

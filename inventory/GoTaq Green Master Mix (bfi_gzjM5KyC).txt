@@ -1,0 +1,12 @@
+GoTaq Green Master Mix
+Unique Identifier: C-LL034
+Alternative names: None
+Supplier: Promega
+Location: -20 valuables freezer
+Order Number: M7122
+CAS #: None
+Warnings: None
+Other Information: Link to protocol:
+https://www.promega.com/-/media/files/resources/protocols/product-information-sheets/g/gotaq-green-master-mix-protocol.pdf
+Molecular weight[g/mol]: 
+Concentration : None

@@ -1,0 +1,11 @@
+16 % Formaldehyde
+Unique Identifier: C-LL020
+Alternative names: Paraformaldehyde
+Supplier: Thermo Scientific
+Location: Corrosive cabinet
+Order Number: 28908
+CAS #: 50-00-0
+Warnings: Danger!  Harmful if swallowed. Harmful in contact with skin. Causes skin irritation. May cause an allergic skin reaction. Causes serious eye irritation. Harmful if inhaled. May cause respiratory irritation. Suspected of causing genetic defects. May cause cancer
+Other Information: Used to fix tissue. Please dilute to 4% what you don't need, write the date on it and put it in the -20C (or 4C if you use it in the next week or so)
+Molecular weight[g/mol]: 
+Concentration : None

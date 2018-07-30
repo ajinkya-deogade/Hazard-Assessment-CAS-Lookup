@@ -48,6 +48,12 @@ def clean(text):
 #==============================================================================
 # Input
 #==============================================================================
+## Read Benchling Data
+df = pd.read_csv('20180110_BenchlingChemicalDatabase.csv')
+df.dropna(subset=['CAS #'], inplace=True)
+df['CAS #'] = df['CAS #'].str.strip()
+df['CAS #'].to_csv('CAS-list.txt', sep='\r', index=False)
+
 # Looking for info about chemical identified by CAS number ...
 CASlist = list()
 textfile = open('CAS-list.txt','r')
@@ -155,11 +161,13 @@ prefs = {"download.default_directory" : os.path.join(os.getcwd(),"SDS"),
 chromeOptions.add_experimental_option("prefs",prefs)
 chromeOptions.add_argument("--disable-extensions")
 
-if 'win' in sys.platform: # Windows
+myPlatform = sys.platform
+if myPlatform == 'win': # Windows
     chromedriver = os.path.join(os.getcwd(),'chromedriver','win32','chromedriver.exe')
-elif 'darwin' in sys.platform: # Mac OS
-    chromedriver = os.path.join(os.getcwd(),'chromedriver','mac32','chromedriver')
-elif 'linux' in sys.platform: # Linux
+elif myPlatform == 'darwin': # Mac OS
+    print('You are on MacOS X')
+    chromedriver = os.path.join(os.getcwd(),'chromedriver','mac64','chromedriver')
+elif myPlatform == 'linux': # Linux
     if sys.maxsize > 2**32: # 64-bit
         chromedriver = os.path.join(os.getcwd(),'chromedriver','linux64','chromedriver')
     else: # 32-bit

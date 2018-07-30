@@ -1,0 +1,11 @@
+Tween 20
+Unique Identifier: C-LL009
+Alternative names: C58H114O26
+Supplier: Fisher Scientific
+Location: Molecular biology cabinet
+Order Number: 655204-100ML
+CAS #: 9005-64-5
+Warnings: 
+Other Information: A chemical that makes tissue more penetrable by big molecules. Used i.e. in immunohistochemistry
+Molecular weight[g/mol]: 
+Concentration : None

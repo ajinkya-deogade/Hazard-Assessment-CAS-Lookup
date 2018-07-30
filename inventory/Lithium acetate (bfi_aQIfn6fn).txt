@@ -1,0 +1,11 @@
+Lithium acetate
+Unique Identifier: C-LL046
+Alternative names: LiOOCCH3 
+Supplier: Chem-Impex Int. through Fisher Scientific
+Location: Molecular biology chemicals
+Order Number: 50532092
+CAS #: 546-89-4
+Warnings: None
+Other Information: Ordered to be used with Boric acid to make high voltage electrophoresis buffer
+Molecular weight[g/mol]: 65.99
+Concentration : None

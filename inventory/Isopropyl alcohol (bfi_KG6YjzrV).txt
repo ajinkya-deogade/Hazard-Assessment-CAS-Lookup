@@ -1,0 +1,11 @@
+Isopropyl alcohol
+Unique Identifier: C-LL022
+Alternative names: 2-Propanol, Isopropanol
+Supplier: Fisher Scientific
+Location: Flammable cabinet
+Order Number: PX1838P-6
+CAS #: 67-63-0
+Warnings: Danger! Highly flammable liquid and vapor. Causes serious eye irritation. May cause respiratory irritation
+Other Information: 
+Molecular weight[g/mol]: 
+Concentration : None

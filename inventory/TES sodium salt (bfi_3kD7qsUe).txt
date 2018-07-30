@@ -1,0 +1,11 @@
+TES sodium salt
+Unique Identifier: C-LL015
+Alternative names: C6H14NSO6Na, N-[Tris(hydroxymethyl)methyl]-2-aminoethanesulfonic acid sodium salt
+Supplier: MP Biomedicals
+Location: Molecular biology cabinet
+Order Number: 152461
+CAS #: 70331-82-7
+Warnings: 
+Other Information: A standard buffer in biology.
+Molecular weight[g/mol]: 
+Concentration : None

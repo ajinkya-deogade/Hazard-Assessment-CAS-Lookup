@@ -1,0 +1,12 @@
+Boric Acid
+Unique Identifier: C-LL048
+Alternative names: hydrogen borate, boracic acid, orthoboric acid, acidum boricum, H3BO3
+Supplier: Fisher Scientific
+Location: Molecular Biology Cabinet
+Order Number: M139-500G
+CAS #: 10043-35-3
+Warnings: Danger!
+Skin irritation and don't swallow
+Other Information: None
+Molecular weight[g/mol]: 61.83
+Concentration : None
